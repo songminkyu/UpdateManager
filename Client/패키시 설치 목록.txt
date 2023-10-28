@@ -1,0 +1,10 @@
+1. npx create-react-app final-update-manager
+2. npm install express --save
+3. npm install cors --save
+4. npm install body-parser --save
+
+
+https://coding-hyeok.tistory.com/21
+https://baegofda.tistory.com/210
+https://hello-bryan.tistory.com/121
+https://hello-bryan.tistory.com/122
